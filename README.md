@@ -1,6 +1,6 @@
 # Claude skills for LinkedIn writing
 
-Five free skills for writing LinkedIn posts with Claude. Each one is a folder with a single `SKILL.md`. They are MIT licensed, need no sign-up and no account anywhere, and none of them posts anything. You copy the text out and post it yourself.
+Six free skills for writing LinkedIn posts with Claude. Each one is a folder with a single `SKILL.md`. They are MIT licensed, need no sign-up and no account anywhere, and none of them posts anything. You copy the text out and post it yourself.
 
 ## Install
 
@@ -14,7 +14,7 @@ Restart Claude Code. The skill runs when your request matches its description, o
 
 **Claude.ai:** zip the skill folder and upload it as a custom skill in your settings.
 
-## The five skills
+## The six skills
 
 | Folder | What it does |
 |---|---|
@@ -23,6 +23,7 @@ Restart Claude Code. The skill runs when your request matches its description, o
 | `linkedin-proof-card` | Records a result, a quote or a number with its source, date and limits |
 | `linkedin-comment-mining` | Turns the questions, objections and phrasing in your comments into post ideas |
 | `linkedin-right-to-say-it` | Checks a draft sentence by sentence for what you can defend, and fixes the rest |
+| `linkedin-post-check` | Runs four checks by hand on a finished post: first line, concrete detail, proof and stock patterns |
 
 ## What these skills will not do
 
