@@ -31,7 +31,7 @@ They write text, and you decide what gets posted. They never invent a number or 
 
 ## Who made them
 
-[Adamiro](https://adamiro.com/?utm_source=github&utm_medium=repo&utm_campaign=claude-skills), a Swedish company. Its software reads what a B2B company's buyers are asking, drafts LinkedIn posts from the company's own material and schedules them once someone approves. These skills are the parts of that method you can run by hand.
+[Adamiro](https://adamiro.com/?utm_source=github&utm_medium=repo&utm_campaign=claude-skills), a Swedish company. Its software reads what a B2B company's buyers are asking, drafts LinkedIn posts from the company's own material and schedules them once someone approves them, post by post or by a rule they signed. These skills are the parts of that method you can run by hand.
 
 ## Licence
 
